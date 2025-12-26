@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/dripstone/natural_1" },
+      { "model": "minecraft:block/stone_stuff/dripstone/natural_2" },
+      { "model": "minecraft:block/stone_stuff/dripstone/natural_3" },
+      { "model": "minecraft:block/stone_stuff/dripstone/natural_4" }
+    ]
+  }
+}

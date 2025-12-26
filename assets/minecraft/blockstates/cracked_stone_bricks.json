@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/stone_bricks/cracked_1" },
+      { "model": "minecraft:block/stone_stuff/stone_bricks/cracked_2" },
+      { "model": "minecraft:block/stone_stuff/stone_bricks/cracked_3" },
+      { "model": "minecraft:block/stone_stuff/stone_bricks/cracked_4" }
+    ]
+  }
+}

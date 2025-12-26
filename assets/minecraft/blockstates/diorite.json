@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/diorite/natural_1" },
+      { "model": "minecraft:block/stone_stuff/diorite/natural_2" },
+      { "model": "minecraft:block/stone_stuff/diorite/natural_3" },
+      { "model": "minecraft:block/stone_stuff/diorite/natural_4" }
+    ]
+  }
+}

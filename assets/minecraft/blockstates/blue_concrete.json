@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/concrete/blue_1" },
+      { "model": "minecraft:block/stone_stuff/concrete/blue_2" },
+      { "model": "minecraft:block/stone_stuff/concrete/blue_3" },
+      { "model": "minecraft:block/stone_stuff/concrete/blue_4" }
+    ]
+  }
+}

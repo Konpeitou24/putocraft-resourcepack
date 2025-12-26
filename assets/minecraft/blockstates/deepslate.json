@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/deepslate/natural_1" },
+      { "model": "minecraft:block/stone_stuff/deepslate/natural_2" },
+      { "model": "minecraft:block/stone_stuff/deepslate/natural_3" },
+      { "model": "minecraft:block/stone_stuff/deepslate/natural_4" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"texture_size": [32, 32],
+    "parent": "block/templates/wooden_stairs/slope_straight_n_2",
+	"textures": {
+        "3": "block/wooden_stuff/cherry/cubes",
+        "4": "block/wooden_stuff/cherry/double",
+        "5": "block/wooden_stuff/cherry/clean_2",
+        "6": "block/wooden_stuff/cherry/stairs_back",
+        "particle": "block/wooden_stuff/cherry/particle"
+	}
+}

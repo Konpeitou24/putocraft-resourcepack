@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_1" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_2" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_3" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_4" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_5" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_6" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_7" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_8" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_9" },
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_10"},
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_11"},
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_12"},
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_13"},
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_14"},
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_15"},
+      { "model": "minecraft:block/wooden_stuff/mangrove/planks/planks_16"}
+    ]
+  }
+}

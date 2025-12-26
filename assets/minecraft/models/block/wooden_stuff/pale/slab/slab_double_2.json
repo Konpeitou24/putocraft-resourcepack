@@ -1,0 +1,11 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+    "parent": "block/templates/wooden_slabs/slab_double_2",
+	"texture_size": [32, 32],
+	"textures": {
+        "1": "block/wooden_stuff/pale/1",
+        "2": "block/wooden_stuff/pale/2",
+        "3": "block/wooden_stuff/pale/parquet_2",
+        "particle": "block/wooden_stuff/pale/particle"
+	}
+}

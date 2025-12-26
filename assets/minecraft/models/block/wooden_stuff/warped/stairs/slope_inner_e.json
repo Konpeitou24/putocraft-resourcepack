@@ -1,0 +1,14 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"texture_size": [32, 32],
+    "parent": "block/templates/wooden_stairs/slope_inner_e",
+	"textures": {
+        "3": "block/wooden_stuff/warped/stairs_corner",
+        "4": "block/wooden_stuff/warped/stairs_corner_double",
+        "5": "block/wooden_stuff/warped/cubes",
+        "6": "block/wooden_stuff/warped/double",
+        "7": "block/wooden_stuff/warped/clean_1",
+        "8": "block/wooden_stuff/warped/stairs_back",
+        "particle": "block/wooden_stuff/warped/particle"
+	}
+}

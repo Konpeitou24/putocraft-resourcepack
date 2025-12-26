@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/quartz/chiseled/chiseled_1" }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"parent": "block/cube_all",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "block/wooden_stuff/warped/double",
+		"2": "block/wooden_stuff/warped/cubes",
+		"particle": "block/wooden_stuff/warped/particle"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 16, 8, 8], "rotation": 270, "texture": "#2", "cullface": "east"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [8, 8, 0, 16], "texture": "#2", "cullface": "west"},
+				"up": {"uv": [0, 8, 8, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 8, 8, 16], "rotation": 180, "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/prismarine/prismarine_1" },
+      { "model": "minecraft:block/stone_stuff/prismarine/prismarine_2" },
+      { "model": "minecraft:block/stone_stuff/prismarine/prismarine_3" },
+      { "model": "minecraft:block/stone_stuff/prismarine/prismarine_4" }
+    ]
+  }
+}

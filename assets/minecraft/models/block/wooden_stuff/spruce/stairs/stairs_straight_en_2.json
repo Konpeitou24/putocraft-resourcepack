@@ -1,0 +1,11 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+    "parent": "block/templates/wooden_stairs/stairs_straight_en_2",
+	"texture_size": [32, 32],
+	"textures": {
+        "2": "block/wooden_stuff/spruce/double",
+        "3": "block/wooden_stuff/spruce/cubes",
+        "4": "block/wooden_stuff/spruce/stairs_extra",
+        "particle": "block/wooden_stuff/spruce/particle"
+	}
+}

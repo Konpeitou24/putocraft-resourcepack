@@ -1,0 +1,14 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"parent": "minecraft:block/templates/stone_bricks_wall/side_n_4",
+	"texture_size": [32, 32],
+	"textures": {
+        "extra": "block/stone/tuff/bricks_extra",
+        "wall_hole": "block/stone/tuff/wall",
+        "wall_end": "block/stone/tuff/wall_end",
+        "wall_parts": "block/stone/tuff/wall_parts",
+        "wall_alt": "block/stone/tuff/wall_alt",
+        "wall_short": "block/stone/tuff/wall_short",
+		"particle": "block/stone/stone_particle"
+	}
+}

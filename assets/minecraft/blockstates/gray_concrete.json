@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/concrete/gray_1" },
+      { "model": "minecraft:block/stone_stuff/concrete/gray_2" },
+      { "model": "minecraft:block/stone_stuff/concrete/gray_3" },
+      { "model": "minecraft:block/stone_stuff/concrete/gray_4" }
+    ]
+  }
+}

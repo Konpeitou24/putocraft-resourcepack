@@ -1,0 +1,10 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+    "parent": "block/templates/wooden_planks/planks_10",
+	"texture_size": [32, 32],
+	"textures": {
+        "1": "block/wooden_stuff/acacia/9",
+        "2": "block/wooden_stuff/acacia/10",
+        "particle": "block/wooden_stuff/acacia/particle"
+	}
+}

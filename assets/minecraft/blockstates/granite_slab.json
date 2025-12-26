@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=bottom": [
+      { "model": "minecraft:block/stone_stuff/granite/slab/slab_1" },
+      { "model": "minecraft:block/stone_stuff/granite/slab/slab_2" },
+      { "model": "minecraft:block/stone_stuff/granite/slab/slab_3" },
+      { "model": "minecraft:block/stone_stuff/granite/slab/slab_4" }
+    ],
+    "type=double": [
+      { "model": "minecraft:block/stone_stuff/granite/natural_1" },
+      { "model": "minecraft:block/stone_stuff/granite/natural_2" },
+      { "model": "minecraft:block/stone_stuff/granite/natural_3" },
+      { "model": "minecraft:block/stone_stuff/granite/natural_4" }
+    ],
+    "type=top": [
+      { "model": "minecraft:block/stone_stuff/granite/slab/top_1" },
+      { "model": "minecraft:block/stone_stuff/granite/slab/top_2" },
+      { "model": "minecraft:block/stone_stuff/granite/slab/top_3" },
+      { "model": "minecraft:block/stone_stuff/granite/slab/top_4" }
+    ]
+  }
+}

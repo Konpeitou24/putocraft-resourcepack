@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/calcite/natural_1" },
+      { "model": "minecraft:block/stone_stuff/calcite/natural_2" },
+      { "model": "minecraft:block/stone_stuff/calcite/natural_3" },
+      { "model": "minecraft:block/stone_stuff/calcite/natural_4" }
+    ]
+  }
+}

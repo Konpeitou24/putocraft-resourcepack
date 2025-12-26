@@ -1,0 +1,25 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"parent": "block/cube_all",
+	"texture_size": [32, 32],
+	"textures": {
+        "1": "block/wooden_stuff/acacia/double",
+        "3": "block/wooden_stuff/acacia/cubes",
+        "particle": "block/wooden_stuff/acacia/particle"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "rotation": 270, "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 8, 8, 16], "rotation": 90, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [8, 8, 16, 16], "rotation": 90, "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 8, 8, 16], "rotation": 270, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [8, 8, 16, 16], "texture": "#3", "cullface": "up"},
+				"down": {"uv": [8, 8, 16, 16], "rotation": 90, "texture": "#3", "cullface": "down"}
+			}
+		}
+	]
+}

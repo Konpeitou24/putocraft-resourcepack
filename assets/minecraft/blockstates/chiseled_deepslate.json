@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/deepslate/bricks_chiseled_1" },
+      { "model": "minecraft:block/stone_stuff/deepslate/bricks_chiseled_2" },
+      { "model": "minecraft:block/stone_stuff/deepslate/bricks_chiseled_3" },
+      { "model": "minecraft:block/stone_stuff/deepslate/bricks_chiseled_4" }
+    ]
+  }
+}

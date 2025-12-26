@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/tuff/tuff_1" },
+      { "model": "minecraft:block/stone_stuff/tuff/tuff_2" },
+      { "model": "minecraft:block/stone_stuff/tuff/tuff_3" },
+      { "model": "minecraft:block/stone_stuff/tuff/tuff_4" }
+    ]
+  }
+}

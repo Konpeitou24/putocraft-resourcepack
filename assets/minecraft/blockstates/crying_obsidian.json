@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/obsidian/crying_1" },
+      { "model": "minecraft:block/stone_stuff/obsidian/crying_2" },
+      { "model": "minecraft:block/stone_stuff/obsidian/crying_3" },
+      { "model": "minecraft:block/stone_stuff/obsidian/crying_4" }
+    ]
+  }
+}

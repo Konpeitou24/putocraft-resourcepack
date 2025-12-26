@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/terracotta/lime_1" },
+      { "model": "minecraft:block/stone_stuff/terracotta/lime_2" },
+      { "model": "minecraft:block/stone_stuff/terracotta/lime_3" },
+      { "model": "minecraft:block/stone_stuff/terracotta/lime_4" }
+    ]
+  }
+}

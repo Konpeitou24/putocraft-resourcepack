@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=bottom": [
+      { "model": "minecraft:block/stone_stuff/andesite/slab/slab_1" },
+      { "model": "minecraft:block/stone_stuff/andesite/slab/slab_2" },
+      { "model": "minecraft:block/stone_stuff/andesite/slab/slab_3" },
+      { "model": "minecraft:block/stone_stuff/andesite/slab/slab_4" }
+    ],
+    "type=double": [
+      { "model": "minecraft:block/stone_stuff/andesite/natural_1" },
+      { "model": "minecraft:block/stone_stuff/andesite/natural_2" },
+      { "model": "minecraft:block/stone_stuff/andesite/natural_3" },
+      { "model": "minecraft:block/stone_stuff/andesite/natural_4" }
+    ],
+    "type=top": [
+      { "model": "minecraft:block/stone_stuff/andesite/slab/top_1" },
+      { "model": "minecraft:block/stone_stuff/andesite/slab/top_2" },
+      { "model": "minecraft:block/stone_stuff/andesite/slab/top_3" },
+      { "model": "minecraft:block/stone_stuff/andesite/slab/top_4" }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [40, 40],
+	"textures": {
+		"1": "block/nature_stuff/leaves/jungle_branches",
+		"2": "block/nature_stuff/leaves/jungle_leaves",
+		"3": "block/nature_stuff/leaves/jungle_vines",
+		"particle": "block/nature_stuff/leaves/jungle_leaves"
+	},
+	"elements": [
+		{
+			"name": "branches",
+			"from": [-6.425, -3.925, 8.2],
+			"to": [17.575, 8.075, 8.2],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [6.575, 8.075, 8.2]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 0], "texture": "#1"},
+				"south": {"uv": [0, 8, 16, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "branches",
+			"from": [-4.425, 7.075, 9.2],
+			"to": [19.575, 19.075, 9.2],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8.575, 7.075, 9.2]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 8], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [0, 16, 16, 8], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [-4.425, 7.4, -3.8],
+			"to": [19.575, 7.4, 20.2],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"up": {"uv": [16, 16, 0, 0], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [-4.425, 8.075, -3.8],
+			"to": [19.575, 8.075, 20.2],
+			"rotation": {"angle": -45, "axis": "z", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"up": {"uv": [16, 16, 0, 0], "texture": "#2", "tintindex": 0},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [7.575, -3.925, -3.8],
+			"to": [7.575, 20.075, 20.2],
+			"rotation": {"angle": -45, "axis": "z", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"east": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#2", "tintindex": 0},
+				"west": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [6.625, -3.925, -3.8],
+			"to": [6.625, 20.075, 20.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"east": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#2", "tintindex": 0},
+				"west": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [-4.425, -3.925, 9],
+			"to": [19.575, 20.075, 9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [7.575, -3.925, -3.8],
+			"to": [7.575, 20.075, 20.2],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"east": {"uv": [0, 16, 16, 0], "texture": "#2", "tintindex": 0},
+				"west": {"uv": [16, 16, 0, 0], "texture": "#2", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [8.21104, -15.925, 13.83604],
+			"to": [8.21104, 8.075, 19.83604],
+			"rotation": {"angle": 45, "axis": "y", "origin": [1.21104, -3.925, 11.83604]},
+			"faces": {
+				"east": {"uv": [12, 16, 16, 0], "rotation": 180, "texture": "#3", "cullface": "down", "tintindex": 0},
+				"west": {"uv": [16, 16, 12, 0], "rotation": 180, "texture": "#3", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves",
+			"from": [-4.425, -3.925, 8.2],
+			"to": [19.575, 20.075, 8.2],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.575, 8.075, 8.2]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#2", "tintindex": 0},
+				"south": {"uv": [16, 16, 0, 0], "texture": "#2", "tintindex": 0}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "branches",
+			"origin": [8, 5, 12],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "leaves",
+			"origin": [7, 12, 7],
+			"color": 0,
+			"children": [2, 3, 4, 5, 6, 7, 8, 9]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"item.orbs_of_crafting.legendary_enchant_tool": "伝説的なツールエンチャントの宝珠",
+	"orbs_of_crafting.item_modification.destroy_item": "アイテムを破壊します！",
+	"orbs_of_crafting.item_modification.do_nothing": "何もしません",
+	"orbs_of_crafting.item_modification.enchant_with_10_levels": "10レベル分のエンチャントを適用します",
+	"orbs_of_crafting.item_modification.enchant_with_20_levels": "20レベル分のエンチャントを適用します",
+	"orbs_of_crafting.item_modification.enchant_with_30_levels": "30レベル分のエンチャントを適用します",
+	"orbs_of_crafting.item_requirement.has_no_enchants": "エンチャントが付いていない必要があります",
+	"orbs_of_crafting.item_requirement.is_damaged": "損傷しているアイテムである必要があります",
+	"orbs_of_crafting.item_requirement.is_single_item": "単一のアイテムである必要があります",
+	"orbs_of_crafting.item_requirement.is_tool_tag": "タグ付けが #Tool である必要があります",
+	"orbs_of_crafting.words.always_does": "常に行うこと：",
+	"orbs_of_crafting.words.currency": "クラフティングオーブ",
+	"orbs_of_crafting.words.mod_name": "クラフティングの宝珠",
+	"orbs_of_crafting.words.not_a_potential_consumer": "使用時にポテンシャルを消費しません",
+	"orbs_of_crafting.words.outcome_tip": "%1$s - %2$s",
+	"orbs_of_crafting.words.potential_cost": "ポテンシャルコスト: %1$s",
+	"orbs_of_crafting.words.random_outcome": "ランダムな結果：",
+	"orbs_of_crafting.words.requirements": "要件：",
+	"orbs_of_crafting.words.this_is_not_a": "これは%1$sではありません"
+}

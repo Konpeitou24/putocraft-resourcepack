@@ -1,0 +1,5 @@
+{
+	"loader": "fusion:model",
+  	"type": "connecting",
+  "parent": "minecraft:block/glass/normal/block_item"
+}

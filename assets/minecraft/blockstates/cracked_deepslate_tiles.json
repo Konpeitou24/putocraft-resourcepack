@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/stone_stuff/deepslate/tiles_cracked_1" },
+      { "model": "minecraft:block/stone_stuff/deepslate/tiles_cracked_2" },
+      { "model": "minecraft:block/stone_stuff/deepslate/tiles_cracked_3" },
+      { "model": "minecraft:block/stone_stuff/deepslate/tiles_cracked_4" }
+    ]
+  }
+}

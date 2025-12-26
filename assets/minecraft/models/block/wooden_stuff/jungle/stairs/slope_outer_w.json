@@ -1,0 +1,14 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"texture_size": [32, 32],
+    "parent": "block/templates/wooden_stairs/slope_outer_w",
+	"textures": {
+        "4": "block/wooden_stuff/jungle/stairs_corner",
+        "5": "block/wooden_stuff/jungle/stairs_corner_double",
+        "6": "block/wooden_stuff/jungle/cubes",
+        "7": "block/wooden_stuff/jungle/clean_1",
+        "8": "block/wooden_stuff/jungle/stairs_back",
+        "9": "block/wooden_stuff/jungle/double",
+        "particle": "block/wooden_stuff/jungle/particle"
+	}
+}

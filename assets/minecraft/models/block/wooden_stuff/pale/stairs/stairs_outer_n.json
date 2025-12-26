@@ -1,0 +1,11 @@
+{
+	"credit": "Made by Satellence with Blockbench",
+	"texture_size": [32, 32],
+    "parent": "block/templates/wooden_stairs/stairs_outer_n",
+	"textures": {
+        "2": "block/wooden_stuff/pale/stairs_corner_double",
+        "3": "block/wooden_stuff/pale/cubes",
+        "4": "block/wooden_stuff/pale/double",
+        "particle": "block/wooden_stuff/pale/particle"
+	}
+}
